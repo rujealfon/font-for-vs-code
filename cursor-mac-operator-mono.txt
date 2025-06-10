@@ -1,0 +1,38 @@
+{
+  "breadcrumbs.filePath": "last",
+  "catppuccin.accentColor": "red",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "OperatorMono-BookItalic",
+  "editor.fontSize": 14,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": false,
+  "editor.formatOnType": false,
+  "editor.guides.bracketPairs": "active",
+  "editor.renderWhitespace": "all",
+  "editor.semanticHighlighting.enabled": true,
+  "editor.tabSize": 2,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "git.allowForcePush": true,
+  "terminal.integrated.fontFamily": "Monaspace Radon",
+  "terminal.integrated.minimumContrastRatio": 1,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vue.server.hybridMode": true,
+  "window.titleBarStyle": "custom",
+  "workbench.activityBar.location": "top",
+  "workbench.activityBar.orientation": "vertical",
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "workbench.iconTheme": "catppuccin-mocha",
+  "workbench.productIconTheme": "icons-carbon",
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
